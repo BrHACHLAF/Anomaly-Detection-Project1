@@ -4,3 +4,6 @@ In this project, we want to build a Machine Learning model that can detect any a
 the data that given to us is two files: credit card informations and transaction data.
 
 Please contribut on it
+
+## Steps
+Please do data viz first
